@@ -32,4 +32,20 @@
             />
     </LinearLayout>
 
+    <view
+        class="android.view.View"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000"
+
+         />
+
+    <view
+        class="android.view.View"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#333"
+
+         />
+
 </LinearLayout>
