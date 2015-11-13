@@ -3,4 +3,6 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="exit">exit</string>
+    <string name="newReminder">new Reminder</string>
 </resources>
